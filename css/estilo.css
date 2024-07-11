@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*******HEADER*******/
+#topo {
+    background-color: rgb(77,157,27)
+}
+
+#logo {
+    background-image: url(../images/logo.png);
+    width: 150px;
+    height: 150px
+    
+}
+
+/*******NAV*******/
+#menu {
+    background-color: burlywood
+}
+/*******MAIN*******/
+.destaques {
+    background-color: grey
+}
+/*******RODAPE*******/
+#rodape {
+    background-color: antiquewhite;
+}
+
