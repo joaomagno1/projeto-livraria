@@ -10,11 +10,11 @@
 
 #logo {
     background-image: url(../images/logo.png);
-    width: 150px;
-    height: 150px
-    
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 350px;
+    width: 350px;
 }
-
 /*******NAV*******/
 #menu {
     background-color: burlywood
